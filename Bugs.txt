@@ -1,0 +1,4 @@
+TC-1 -> Checking out, if you try to check out without ordering anything it shouldn't be able to checkout, Severity - High, Fail the expected result.
+TC-2 -> Checking your order $ total, When you see your order it should match the price on the menu, Severity - High, Fail the expected result.
+TC-3 -> Removing items from your order, If you remove items from your order it should be able to remove it, Severity - High, Fail the expected result.
+TC-4 -> After checking out, if the first customer checks out, it shouldn't remember the orders prom previous customers, Severity - High, Fail the expected result.
